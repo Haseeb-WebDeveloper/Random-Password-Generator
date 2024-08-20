@@ -26,4 +26,4 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/Haseeb-WebDeveloper/Random-Password-Generator.git
